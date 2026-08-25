@@ -1,6 +1,6 @@
 {
-    "package": "pillar-cards",
-    "version": "0.0.0",
-    "download_url": "",
-    "sha256": ""
+  "package": "pillar-cards",
+  "version": "2026.8.22",
+  "download_url": "https://github.com/Pillar-Integrated/pillar-card-releases/releases/download/v2026.8.22/pillar-cards.zip",
+  "sha256": "5670b565be87cb0da10b01776f5947b1d008ff12a4aeabf65a3c2a856738b394"
 }
